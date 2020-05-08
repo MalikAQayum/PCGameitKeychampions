@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         PCGameit Keychampions.
-// @namespace    http://pcgameit.com/Keychampions/
+// @namespace    https://pcgameit.com/Keychampions/
 // @version      1.0
 // @description  Script for developers / publishers to see decide whether or not a steam key should be revoked.
 // @author       MalikQayum
